@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<RTBS_IMLS_OUT>
+	<OperationMessage>
+		<Code>${Code}</Code> 
+		<Message>${Message}</Message>
+	</OperationMessage>
+</RTBS_IMLS_OUT>

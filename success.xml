@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RTBS_IMLS_OUT>
+	<OperationMessage>
+		<Code>RTBS_MSLS-OM001</Code>
+		<Message>Consulta exitosa</Message>
+	</OperationMessage>
+	<MSISDN>
+		<Number>${number}</Number>
+	</MSISDN>
+	<IMSI>${imsi}</IMSI>
+	<PUK>${puk}</PUK>
+	<PUK2>${puk2}</PUK2>
+	<PIN2>${pin2}</PIN2>
+</RTBS_IMLS_OUT>
